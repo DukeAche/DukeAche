@@ -68,12 +68,3 @@ I'm always open to discussing new ideas, collaborations, or opportunities.
 | **LinkedIn** | [Your LinkedIn Profile URL] |
 | **Personal Website** | [Your Personal Website/Blog URL] |
 | **Email** | [Your Professional Email Address] |
-
-
-<!-- Markdown Reference Links for Clarity -->
-[LINK_TO_PROFESSIONAL_AVATAR]: [URL of your professional avatar image]
-[Link to Repo]: [URL of your project repository]
-[Your LinkedIn Profile URL]: https://linkedin.com/in/[your-username]
-[Your Personal Website/Blog URL]: https://[your-website.com]
-[Your Professional Email Address]: mailto:[Dukeray66@gmail.com]
-[YOUR_GITHUB_USERNAME]: [DukeAche]
