@@ -4,17 +4,7 @@
   
   ---
   
-  <!-- Dynamic GitHub Stats - Replace [YOUR_GITHUB_USERNAME] -->
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="[YOUR_GITHUB_USERNAME]'s GitHub Stats" />
-  </a>
-  <a href="https://github.com/[YOUR_GITHUB_USERNAME]">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
-  
-  ---
-</div>
-
+ 
 ## 🧠 My Dual Expertise
 
 My work is centered at the intersection of data and development, ensuring that models are not just accurate, but also deployable, maintainable, and performant in a production environment.
