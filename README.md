@@ -69,15 +69,11 @@ I'm always open to discussing new ideas, collaborations, or opportunities.
 | **Personal Website** | [Your Personal Website/Blog URL] |
 | **Email** | [Your Professional Email Address] |
 
-<div align="center">
-  <!-- Optional: Add a visitor counter badge -->
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 <!-- Markdown Reference Links for Clarity -->
 [LINK_TO_PROFESSIONAL_AVATAR]: [URL of your professional avatar image]
 [Link to Repo]: [URL of your project repository]
 [Your LinkedIn Profile URL]: https://linkedin.com/in/[your-username]
 [Your Personal Website/Blog URL]: https://[your-website.com]
-[Your Professional Email Address]: mailto:[your-email@example.com]
-[YOUR_GITHUB_USERNAME]: [Your actual GitHub username]
+[Your Professional Email Address]: mailto:[Dukeray66@gmail.com]
+[YOUR_GITHUB_USERNAME]: [DukeAche]
